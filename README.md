@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 
 #### Baekjoon
 
-[![Solved.ac
-프로필](a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=duddk1472)](https://solved.ac/duddk1472")  <img src="http://mazandi.herokuapp.com/api?handle=duddk1472&theme=warm"/>
+[![Solved.ac프로필](a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=duddk1472)](https://solved.ac/duddk1472")  <img src="http://mazandi.herokuapp.com/api?handle=duddk1472&theme=warm"/>
