@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <br/><br/>
-### :speaker: Language
+### 👄: Language
 <img src="https://img.shields.io/badge/KOREA-1572B6?style=for-the-badge&logo=KOREA&logoColor=white"> <img src="https://img.shields.io/badge/Japan-F80000?style=for-the-badge&logo=Japan&logoColor=white">
 <br/><br/>
 ### :wrench: Tools
