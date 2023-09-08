@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
-  <br/>
-  <br/>
-
+<br/><br/>
+#### :speaker: Language
+<img src="https://img.shields.io/badge/KOREA-E34F26?style=for-the-badge&logo=KOREA&logoColor=white">
+<img src="https://img.shields.io/badge/Japan-E34F26?style=for-the-badge&logo=Japan&logoColor=white">
+<br/><br/>
 #### :pencil2: Study log
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooya03&show_icons=true&theme=radical)
