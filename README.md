@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 #### :pencil2: Study Log
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooya03&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wooya03)](https://solved.ac/wooya03)<br/>
