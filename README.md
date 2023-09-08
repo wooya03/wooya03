@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 #### :speaker: Language
-<img src="https://img.shields.io/badge/KOREA-1572B6?style=for-the-badge&logo=KOREA&logoColor=white">
-<img src="https://img.shields.io/badge/Japan-E34F26?style=for-the-badge&logo=Japan&logoColor=white">
+<img src="https://img.shields.io/badge/KOREA-1572B6?style=for-the-badge&logo=KOREA&logoColor=white"> <img src="https://img.shields.io/badge/Japan-F80000?style=for-the-badge&logo=Japan&logoColor=white">
 <br/><br/>
 #### :pencil2: Study log
 
