@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fwooya03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Woo+Yeong+A&edge_flat=false)](https://hits.seeyoufarm.com)
+
 #### :clipboard: Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
@@ -27,8 +29,6 @@ Here are some ideas to get you started:
 #### :speaker: Language
 <img src="https://img.shields.io/badge/KOREA-1572B6?style=for-the-badge&logo=KOREA&logoColor=white"> <img src="https://img.shields.io/badge/Japan-F80000?style=for-the-badge&logo=Japan&logoColor=white">
 <br/><br/>
-#### :pencil2: Log
+#### :pencil2: Study Log
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooya03&show_icons=true&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fwooya03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Woo+Yeong+A&edge_flat=false)](https://hits.seeyoufarm.com)
