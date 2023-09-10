@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
 
 <br/><br/>
 ### :pencil2: Study Log
