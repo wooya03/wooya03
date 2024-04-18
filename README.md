@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)<br/>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 <br/><br/>
 ### :lips: Language
 <img src="https://img.shields.io/badge/KOREA-1572B6?style=for-the-badge&logo=KOREA&logoColor=white"> <img src="https://img.shields.io/badge/Japan-F80000?style=for-the-badge&logo=Japan&logoColor=white">
