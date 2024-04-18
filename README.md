@@ -42,8 +42,4 @@ Here are some ideas to get you started:
 #### Github
 <a href="https://github.com/wooya03"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wooya03&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> <a href="https://github.com/wooya03"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooya03&layout=compact&theme=nord&hide_border=true" /></a> 
 
-#### Baekjoon
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duddk1472)](https://solved.ac/duddk1472)
-<img src="http://mazandi.herokuapp.com/api?handle=duddk1472&theme=warm"/>
+<Chart src="https://ghchart.rshah.org/33333/wooya03" />
